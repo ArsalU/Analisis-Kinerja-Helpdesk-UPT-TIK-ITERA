@@ -1,6 +1,6 @@
 # Analisis-Kinerja-Helpdesk-UPT-TIK-ITERA
 
-![Poster Overview](POSTER_Analisis_Antrean_Helpdesk_Kelompok3RA.png)
+![Poster Overview](POSTER_Analisis_Antrean_Helpdesk_Kelompok3RA.)
 
 ## Deskripsi Proyek
 Repositori ini berisi analisis performa antrean layanan Helpdesk UPT TIK ITERA menggunakan data tiket masuk periode Agustus 2025 - Oktober 2025. Analisis berfokus pada evaluasi metrik waktu tunggu dan panjang antrean untuk mengidentifikasi bottleneck sistem dan kinerja pelayanan.
