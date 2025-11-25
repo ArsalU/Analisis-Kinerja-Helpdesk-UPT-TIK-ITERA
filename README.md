@@ -29,5 +29,4 @@ Analisis dibatasi pada 5 layanan utama:
 ## Links
 Berikut adalah link ke dokumen lengkap dan video presentasi proyek:
 
-* **Dokumen & Poster (High Res):** [Link Google Drive Disini]
-* **Video Penjelasan:** [Link Video Disini]
+* **Laporan, Poster, Video:** [https://drive.google.com/drive/folders/1-3YQKLMotAwHeiKxwdUsTeMllf1ARiXe?usp=sharing]
